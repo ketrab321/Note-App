@@ -1,0 +1,23 @@
+{
+  "name": "Note-App",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ketrab321/Note-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ketrab321/Note-App/issues"
+  },
+  "homepage": "https://github.com/ketrab321/Note-App#readme",
+  "dependencies": {
+    "validator": "^10.8.0"
+  }
+}
